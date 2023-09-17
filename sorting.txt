@@ -1,0 +1,3 @@
+Sorting means to arrange things in an order it can be either ascending or descending.
+It is an important concept which is used to arrange arrays in any programming language.
+There are certain algorithms for that.
